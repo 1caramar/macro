@@ -1,0 +1,669 @@
+Root Entry The VBA Project _VBA_Project
+ Root Entry The VBA Project _VBA_Project
+ Host Project Item Names VBA Project Data Host Project Items VBA Project Signature
+ ThisLibrary*{ {801A2004-A66C-11D3-A8BD-0000861EBBD6}7{ {801A0000-A66C-11D3-A8BD-0000861EBBD6}9{ {801A0000-A66C-11D3-A8BD-0000861EBBD6} S:\Macros\SetHoleColors\SetColorID="{88E4990F-069B-4293-929E-6FB16FEF9898}"
+ Document=ThisLibrary/&H00000000
+ Module=mod_main
+ Module=mod_ExportProject
+ Module=mod_Config
+ Class=CParamVar
+ Class=cHoleParameters
+ Class=CCosmeticThreadParameters
+ Name="SetColors"
+ HelpContextID="0"
+ VersionCompatible32="393222000"
+ CMG="0103F0F0F4F0F4F0F4F0F4"
+ DPB="F3F10210F511F511F5"
+ GC="E5E7142AF41DF51DF5E2"
+ [Host Extender Info]
+ &H00000001={3832D640-CF90-11CF-8E43-00A0C911005A};VBE;&H00
+ asic for€  ApplicB rs\COLOR HOLES\SetColnfig=75, 75, 1111, 590, 
+ CParamVar=100, 100, 1136, 615, 
+ cHole ThisLibrary Project_Data_CurVer
+ Host Project Item List Data _VBA_PROJECT ThisLibrary 000000
+ [Workspace]
+ ThisLibrary=0, 0, 0, 0, C
+ mod_main=50, 50, 1086, 565, Z
+ mod_ExportProject=100, 100, 1136, 615, 
+ mod_CorU
+ Parameters=125, 125, 1161, 640, 
+ CCosmeticThreadParameters=175, 175, 1211, 690, 
+ , 1161, 640, 
+ CCosmeticThreadParameters=175,€ d_mainG 8ThisLibraryThisLibrary mod_mainmod_main mod_ExportProjectmod_ExportProject mod_Configmod_Config CParamVarCParamVar cHoleParameterscHoleParameters CCosmeticThreadParametersCCosmeticThreadParameters arametersCg7+
+ smeticThÐ readY
+ readParameters N0{FCFB3D2A-A0FA-1068-A738-08002B3371B5} Project Item Data
+ Control List Data ReqControl List Data Host Project Item Names VBA Project Data Host Project Items VBA Project Signature
+ ReqControl List Data
+ Control_Data_CurVer
+ ThisLibrary*{ {801A2004-A66C-11D3-A8BD-0000861EBBD6}7{ {801A0000-A66C-11D3-A8BD-0000861EBBD6}9{ {801A0000-A66C-11D3-A8BD-0000861EBBD6} S:\Macros\SetHoleColors\SetColorID="{88E4990F-069B-4293-929E-6FB16FEF9898}"
+ Document=ThisLibrary/&H00000000
+ Module=mod_main
+ Module=mod_ExportProject
+ Module=mod_Config
+ Class=CParamVar
+ Class=cHoleParameters
+ Class=CCosmeticThreadParameters
+ Name="SetColors"
+ HelpContextID="0"
+ VersionCompatible32="393222000"
+ CMG="1D1FEC281C6420642064206420"
+ DPB="5557A470E4A9E5A9E5A9"
+ GC="8D8F7CB88CF18DF18D0E"
+ [Host Extender Info]
+ &H00000001={3832D640-CF90-11CF-8E43-00A0C911005A};VB
+ asic for€  ApplicB rs\COLOR HOLES\SetColmod_Config=75, 75, 1111, 590, 
+ CParamVar=100, 100, 1136, 615, 
+ ThisLibrary Project_Data_CurVer
+ Host Project Item List Data _VBA_PROJECT ThisLibrary E;&H00000000
+ [Workspace]
+ ThisLibrary=0, 0, 0, 0, C
+ mod_main=50, 50, 1086, 565, Z
+ mod_ExportProject=100, 100, 1136, 615, 
+ cHoleParameters=125, 125, 1161, 640, 
+ CCosmeticThreadParameters=175, 175, 1211, 690, 
+ CCosmeticThreadParameters=175,€ d_mainGÎ fThisLibraryThisLibrary mod_mainmod_main mod_ExportProjectmod_ExportProject mod_Configmod_Config CParamVarCParamVar cHoleParameterscHoleParameters CCosmeticThreadParametersCCosmeticThreadParameters
+ osmeticT  hreadY
+ readParameters N0{FCFB3D2A-A0FA-1068-A738-08002B3371B5} Control List Data
+ Project Item Data
+ Control List Data ReqControl List Data ReqControl List Data
+ Control_Data_CurVer
+ mod_Config
+ mod_ExportProject cHoleParameters CCosmeticThreadParameters
+ SetColorDs
+ BFD4-004 00513BB5 gram Fil es\SOLID WORKS Co 2015 Typ e LibrarFy 687F359- 55D0-4CD EB42C11FÈ 9893Zwc
+ 10AC 1DE9F-3FÀ 125-86 8D-7D4E9€ 139CCE0
+ A362E97 47A-1836 7F-0AE2E 0081353}@#7d7.5
+ ‡ &SharedP\VBAa
+*\G{000204EF-0000-0000-C000-000000000046}#4.2#9#C:\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\VBE7.DLL#Visual Basic For Applications
+ *\G{801A0000-A66C-11D3-A8BD-0000861EBBD6}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swvba.tlb#SolidWorks 2015 Extensibility Type Library
+ *\G{83A33D31-27C5-11CE-BFD4-00400513BB57}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldworks.tlb#SldWorks 2015 Type Library
+ *\G{4687F359-55D0-4CD3-B6CF-2EB42C11F989}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swconst.tlb#SOLIDWORKS 2015 Constant type library
+ *\G{0AC1DE9F-3FBC-4C25-868D-7D4E9139CCE0}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swcommands.tlb#SOLIDWORKS 2015 Commands type library
+ *\G{62E9747A-1836-436E-827F-0AE2E0081353}#7d7.5#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldutils\gtswUtilities.tlb#SOLIDWORKS Utilities 2015 Type Library
+ *\G{3F4DACA7-160D-11D2-A8E9-00104B365C9F}#5.5#0#C:\Windows\System32\vbscript.dll\3#Microsoft VBScript Regular Expressions 5.5
+ *\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\system32\stdole2.tlb#OLE Automation
+*\G{0002E157-0000-0000-C000-000000000046}#5.3#0#C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB#Microsoft Visual Basic for Applications Extensibility 5.3
+ ThisLibrary 0K5e3fbe48 ThisLibrary mod_main 0b5e3fbf44 "mod_ExportProject 0L5e3fbe48 "mod_ExportProject mod_Config 0U5e3fbf2f mod_Config CParamVar 0D5e3fbd4d cHoleParameters 0c5e3fbf64 cHoleParameters 2CCosmeticThreadParameters 0d5e3fbf64 2CCosmeticThreadParameters Write
+ SolidWorks
+ VBAProject3 SetColorsr9 ThisLibraryG
+ SetColors1cc swApp Application
+ SwCommands SWUtilities mod_ExportProject
+ ExportModules bExportX$ szExportPath
+ szFileNameZ cmpComponent VBComponent ActiveVBProject[` FolderWithVBAProjectFiles
+ Protection VBComponents
+ vbext_ct_ClassModule vbext_ct_MSForm vbext_ct_StdModule vbext_ct_Document CreateObject CreateTextFile
+ References WriteLinee Description
+ FolderName SpecialPath sFolderName SpecialFolders
+ GetBaseNamewc FileNamej FolderExists
+ DeleteVBAModulesAndUserForms VBProjectOh VBComp ActiveWorkbook mod_mainl} eHoleType eHT_Default
+ eHT_Metricw swActiveDocL Feature!> ActiveDoc GetType)J swDocPART FirstFeaturea GetTypeNameo SetColorK@ GetNextFeature swRebuildOptions_eb swForceRebuildAll GraphicsRedraw2
+ swHoleData WizardHoleFeatureData2L DisplayDimension swDimension DimensionEo swSelMgr#% SelectionMgr0
+ GetDefinition
+ FastenerSize CosmeticThreadType ChangeColor~S IsNumeric$* GetFirstDisplayDimension GetDimension GetToleranceFitValues GetNextDisplayDimensionU MaterialPropertyValues
+ SetMaterialPropertyValuesb Rebuild3bU
+ ForceRebuild35 _B_var_TrimmT _B_var_UCasea _B_var_LeftQ
+ swCosThread CosmeticThreadFeatureDatac swSubFeatDC GetFirstSubFeatureR
+ ConfigurationNames ParseSubFeature _B_var_Call GetTypeName2 GetNextsuV GetNextSubFeatureAw Workspace3 _B_var_Feature$2 _B_var_WizardHoleFeatureData2 _B_var_ConfigurationNamesgn ApplyThread
+ BlindDepth,Y DiameterTypeX^
+ ThreadCallout ConfigurationOption EndCondition StandardType rBlindDepth _B_var_rBlindDepthn dBlindDepth _B_var_dBlindDepth _B_var_sName _B_var_Exit
+ eHT_Unkown
+ _B_var_swModel^w _B_var_LETTERS VBScript_RegExp_55 _B_var_sMast?c sMaskI p_aColors6 _B_var_p_aColors{ ThreadClass
+ swHodeData#6 holetF FastenerTypev" swWzdHoleStandardFastenerTypes_e CounterBoreDepth CounterBoreDiameterF CounterDrillAngle CounterDrillDepth CounterDrillDiameter] CounterSinkAngle CounterSinkDiameter
+ DrillAngle FarCounterSinkAngle FarCounterSinkDiameter
+ FastenerType2
+ HeadClearance HeadClearanceTypef HoleDiameter
+ MajorDiameter MidCounterSinkAngle#% MidCounterSinkDiameter
+ MinorDiameter NearCounterSinkAnglet NearCounterSinkDiameter
+ TapDrillDepth9e TapDrillDiameter ThreadAngle[ ThreadDepthD ThreadDiameter#(
+ ThruHoleDepth ThruHoleDiameter ThruTapDrillDepth ThruTapDrillDiameter _B_var_FastenerSize _B_var_MidCounterSinkAngle _B_var_HeadClearance} _B_var_DrillAngle _B_var_FastenerTypeSk _B_var_NearCounterSinkAngle@, _B_var_FarCounterSinkDiameter _B_var_Diameter
+ _B_var_ThruTapDrillDepthO _B_var_HeadClearanceType _B_var_HoleDepth _B_var_HoleDiameter>D _B_var_MidCounterSinkDiameter _B_var_NearCounterSinkDiameter _B_var_Standard _B_var_eType
+ _B_var_ForjL _B_var_redim _B_var_WithY GetColormW _B_var_GetColor AddColorsv swStandardDINDowelHole5 ParseHoleWizardFeature
+ GetAffectedFaces| _B_var_Faces _B_var_GetAffectedFaces _B_var_Face2
+ nFaceCount
+ nEdgeCount vAffectedFacesIJ GetEdgeCount SetColor2Q9
+ iFaceCount4
+ lFaceCountu GetAffectedFaceCount _B_var_nFaceCount _B_var_vAffectedFaces _B_var_ModelDoc2 _B_var_CosmeticThreadFeatureDatacH GetFaceCount SetMaterialPropertyValues2 swConfigOptions_ThisConfiguration
+ GetSurfaceK@
+ IsCylinderZ&
+ IMakeIsoCurve3 IMakeIsoCurv]_ AccessSelections
+ SendMsgToUser
+ adjacentfacesOJ ReleaseSelectionAccessH GetTwoAdjacentFaces29 vFasesMm swFacesI SetColor3R9 swconv _B_var_Debug swCosmeticStandardType_e
+ tHoleColor2 tOuterThreadColor _B_var_sTypeF5 eOuterThreadTypeI eOTT_MASCHINE_THREAD _B_var_eOTT_MASCHINE_THREAD eOTT_PIPE_THREAD: _B_var_eOTT_PIPE_THREAD46 eOTT_CONDUIT_THREAD]
+ _B_var_Straight eOTT_PIPE_TREADE _B_var_eOTT_PIPE_TREAD AddHoleColor GetHoleColorn
+ AddOuterColor,
+ p_aHoleColorsJ
+ p_iHoleColors p_aOuterColors p_iOuterColors ColorsHJ AddOuterThreadColor GetOuterThreadColor>c _B_var_AddColor _B_var_AddHoleColor _B_var_p_iColors p_iOuColors p_aouColors p_iCp_iOuterColorsolors AssemblyDoc
+ GethoColor AddouJy eOTT_p MatchCollection
+ IgnoreCase0
+ mod_ConfigU REVISION_NON_PDMk swStandardDINTappedHoleyr swStandardDINStraightPipeTappedHole swStandardDINTaperedPipeTap swStandardSuperiorBottomingTappedHole2> _B_var_swActiveDoc
+ swStandard swStandardDINDrillSizes swStandardDINst? swStandardDINthX swStandardDINScrewClearances
+ sTolerance _B_var_GetToleranceFitValuesY _B_var_SelectionMgr
+ FastenerSiz.
+ FastenerSize2 _B_var_tenerType _B_var_ThruHoleDiameter _B_var_TapDrillDiameter _B_var_TapDrillDepth _B_var_ThreadDiameter _B_var_NextItem
+ _B_var_RegExp!U _B_var_ThreadAngle< _B_var_ThreadDepth% _B_var_bThread bTreadJw bThre bCounterSink[l _B_var_bCounterSink8 bCounterSinkAngleL _B_var_bCounterSinkAngle
+ bCounterThink
+ _B_var_Single rCounterSinkAngle
+ _B_var_bTread bCounterTink bNearCounterSink. _B_var_bCounterThinkz bNearCounter _B_var_bNearCounterSink(b _B_var_CosmeticThreadType _B_var_CounterBoreDepth _B_var_CounterBoreDiameter _B_var_CounterDrillAngle' _B_var_CounterSinkDiameter5` _B_var_Depth _B_var_EndConditioni _B_var_FarCounterSinkAngle _B_var_FastenerType2] _B_var_MajorDiameter _B_var_MinorDiameter dNearCounterSinkDiameter dNearCounterSinkAngleQ dMinorDiameter dMidCounterSinkDiameterO dMidCounterSinkAngle3 dMajorDiameterYs
+ dHoleDiameterE
+ dHoleDepth iHeadClearanceType dHeadClearance iFastenerType2
+ sFastenerSize dFarCounterSinkDiameterO dFarCounterSinkAnglesg
+ iEndCondition dDrillAngle dCounterSinkDiameter dCounterDrillAngle dCounterBoreDiameter dCounterBoreDepth iCosmeticThreadTypeuc _B_var_ThruHoleDepth _B_var_ThruTapDrillDiameter dTapDrillDepth dTapDrillDiameter dThreadAngle dThreadDepth dThreadDiameter%m dThruHoleDepth dThruHoleDiameter dThruTapDrillDepthy dThruTapDrillDiameter _B_var_rCounterSinkAnglew
+ dCounterSinkAngle _B_var_dCounterSinkAngle= dCounterDrillDepth _B_var_dCounterDrillDepth _B_var_dcounter: _B_var_dFactor bCounterBor _B_var_bCounterBor1 bCounterBore iStandardValueItems _B_var_iStandardValueItems iHeadCi  iHeadClearanceTypeItemsF _B_var_iHeadClearanceTypeItems iFastenerType2Items _B_var_iFastenerType2Items iEndConditionItems _B_var_iEndConditionItemsN _B_var_iCosmeticThreadType' aStandardValueItems aHeadClearanceTypeItems aFastenerType2Items aEndConditionItems aCosmeticThreadType _B_var_aStandardValueItems _B_var_aHeadClearanceTypeItemsS _B_var_aFastenerType2Items _B_var_aEndConditionItems _B_var_aCosmeticThreadType _B_var_dDiameter
+ iDiameterType _B_var_iDiameterTypeP dThreadCalloutoe _B_var_dThreadCallout@ _B_var_iEndCondition _B_var_iStandardgO
+ iStandardType- _B_var_iStandardType iStandardItems9 iDiameterTypeItems iStandardTypeItemsiM aDiameterTypeItemsq aStandardItems aStandardTypeItems% iCosmeticThreadTypeItems aCosmeticThreadTypeItems _B_var_aDiameterTypeItems _B_var_aStandardItems _B_var_aStandardTypeItemso
+ sStandardType _B_var_sStandardType swCosmeticThreadDiameterType_e swCosmeticEndConditions_e+ swWzdHoleStandards_e swWzdHoleCosmeticThreadTypes_e swWzdHoleCounterSinkHeadClearanceTypes_e
+ _B_var_ubound _B_var_swFace1* _B_var_swFace2+ mod_exkS _B_var_Right9 _B_var_ActiveWorkbookc9 FUNCT_GETMACROPATH GetCurrentMacroPathName> CONFIG_FILEB CONFIG_FILE_NAME _B_var_CONFIG_FILE_NAME
+ ReadConfig _B_var_Integer CParamVar/ ConvertToInt ConvertToDbl( p_ParamsN0 _B_var_p_ParaControl List Data mod_ExportProject cHoleParameters CCosmeticThreadParameters mod_Config
+ SetColorDs
+ BFD4-004 00513BB5 gram Fil es\SOLID WORKS Co 2015 Typ e LibrarFy 687F359- 55D0-4CD EB42C11FÈ 9893Zwc
+ 10AC 1DE9F-3FÀ 125-86 8D-7D4E9€ 139CCE0
+ A362E97 47A-1836 7F-0AE2E 0081353}@#7d7.5
+ ‡ &SharedP\VBAa
+*\G{000204EF-0000-0000-C000-000000000046}#4.2#9#C:\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\VBE7.DLL#Visual Basic For Applications
+ *\G{801A0000-A66C-11D3-A8BD-0000861EBBD6}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swvba.tlb#SolidWorks 2015 Extensibility Type Library
+ *\G{83A33D31-27C5-11CE-BFD4-00400513BB57}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldworks.tlb#SldWorks 2015 Type Library
+ *\G{4687F359-55D0-4CD3-B6CF-2EB42C11F989}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swconst.tlb#SOLIDWORKS 2015 Constant type library
+ *\G{0AC1DE9F-3FBC-4C25-868D-7D4E9139CCE0}#17.0#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swcommands.tlb#SOLIDWORKS 2015 Commands type library
+ *\G{62E9747A-1836-436E-827F-0AE2E0081353}#7d7.5#0#C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldutils\gtswUtilities.tlb#SOLIDWORKS Utilities 2015 Type Library
+ *\G{3F4DACA7-160D-11D2-A8E9-00104B365C9F}#5.5#0#C:\Windows\System32\vbscript.dll\3#Microsoft VBScript Regular Expressions 5.5
+ *\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\system32\stdole2.tlb#OLE Automation
+*\G{0002E157-0000-0000-C000-000000000046}#5.3#0#C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB#Microsoft Visual Basic for Applications Extensibility 5.3
+ ThisLibrary 0K5e3fbe48 ThisLibrary mod_main 0b5e3fbf44 "mod_ExportProject 0L5e3fbe48 "mod_ExportProject mod_Config 0U5e3fbf2f mod_Config CParamVar 0D5e3fbd4d cHoleParameters 0c5e3fbf64 cHoleParameters 2CCosmeticThreadParameters 0d5e3fbf64 2CCosmeticThreadParameters Write
+ SolidWorks
+ VBAProject3 SetColorsr9 ThisLibraryG
+ SetColors1cc swApp Application
+ SwCommands SWUtilities mod_ExportProject
+ ExportModules bExportX$ szExportPath
+ szFileNameZ cmpComponent VBComponent ActiveVBProject[` FolderWithVBAProjectFiles
+ Protection VBComponents
+ vbext_ct_ClassModule vbext_ct_MSForm vbext_ct_StdModule vbext_ct_Document CreateObject CreateTextFile
+ References WriteLinee Description
+ FolderName SpecialPath sFolderName SpecialFolders
+ GetBaseNamewc FileNamej FolderExists
+ DeleteVBAModulesAndUserForms VBProjectOh VBComp ActiveWorkbook mod_mainl} eHoleType eHT_Default
+ eHT_Metricw swActiveDocL Feature!> ActiveDoc GetType)J swDocPART FirstFeaturea GetTypeNameo SetColorK@ GetNextFeature swRebuildOptions_eb swForceRebuildAll GraphicsRedraw2
+ swHoleData WizardHoleFeatureData2L DisplayDimension swDimension DimensionEo swSelMgr#% SelectionMgr0
+ GetDefinition
+ FastenerSize CosmeticThreadType ChangeColor~S IsNumeric$* GetFirstDisplayDimension GetDimension GetToleranceFitValues GetNextDisplayDimensionU MaterialPropertyValues
+ SetMaterialPropertyValuesb Rebuild3bU
+ ForceRebuild35 _B_var_TrimmT _B_var_UCasea _B_var_LeftQ
+ swCosThread CosmeticThreadFeatureDatac swSubFeatDC GetFirstSubFeatureR
+ ConfigurationNames ParseSubFeature _B_var_Call GetTypeName2 GetNextsuV GetNextSubFeatureAw Workspace3 _B_var_Feature$2 _B_var_WizardHoleFeatureData2 _B_var_ConfigurationNamesgn ApplyThread
+ BlindDepth,Y DiameterTypeX^
+ ThreadCallout ConfigurationOption EndCondition StandardType rBlindDepth _B_var_rBlindDepthn dBlindDepth _B_var_dBlindDepth _B_var_sName _B_var_Exit
+ eHT_Unkown
+ _B_var_swModel^w _B_var_LETTERS VBScript_RegExp_55 _B_var_sMast?c sMaskI p_aColors6 _B_var_p_aColors{ ThreadClass
+ swHodeData#6 holetF FastenerTypev" swWzdHoleStandardFastenerTypes_e CounterBoreDepth CounterBoreDiameterF CounterDrillAngle CounterDrillDepth CounterDrillDiameter] CounterSinkAngle CounterSinkDiameter
+ DrillAngle FarCounterSinkAngle FarCounterSinkDiameter
+ FastenerType2
+ HeadClearance HeadClearanceTypef HoleDiameter
+ MajorDiameter MidCounterSinkAngle#% MidCounterSinkDiameter
+ MinorDiameter NearCounterSinkAnglet NearCounterSinkDiameter
+ TapDrillDepth9e TapDrillDiameter ThreadAngle[ ThreadDepthD ThreadDiameter#(
+ ThruHoleDepth ThruHoleDiameter ThruTapDrillDepth ThruTapDrillDiameter _B_var_FastenerSize _B_var_MidCounterSinkAngle _B_var_HeadClearance} _B_var_DrillAngle _B_var_FastenerTypeSk _B_var_NearCounterSinkAngle@, _B_var_FarCounterSinkDiameter _B_var_Diameter
+ _B_var_ThruTapDrillDepthO _B_var_HeadClearanceType _B_var_HoleDepth _B_var_HoleDiameter>D _B_var_MidCounterSinkDiameter _B_var_NearCounterSinkDiameter _B_var_Standard _B_var_eType
+ _B_var_ForjL _B_var_redim _B_var_WithY GetColormW _B_var_GetColor AddColorsv swStandardDINDowelHole5 ParseHoleWizardFeature
+ GetAffectedFaces| _B_var_Faces _B_var_GetAffectedFaces _B_var_Face2
+ nFaceCount
+ nEdgeCount vAffectedFacesIJ GetEdgeCount SetColor2Q9
+ iFaceCount4
+ lFaceCountu GetAffectedFaceCount _B_var_nFaceCount _B_var_vAffectedFaces _B_var_ModelDoc2 _B_var_CosmeticThreadFeatureDatacH GetFaceCount SetMaterialPropertyValues2 swConfigOptions_ThisConfiguration
+ GetSurfaceK@
+ IsCylinderZ&
+ IMakeIsoCurve3 IMakeIsoCurv]_ AccessSelections
+ SendMsgToUser
+ adjacentfacesOJ ReleaseSelectionAccessH GetTwoAdjacentFaces29 vFasesMm swFacesI SetColor3R9 swconv _B_var_Debug swCosmeticStandardType_e
+ tHoleColor2 tOuterThreadColor _B_var_sTypeF5 eOuterThreadTypeI eOTT_MASCHINE_THREAD _B_var_eOTT_MASCHINE_THREAD eOTT_PIPE_THREAD: _B_var_eOTT_PIPE_THREAD46 eOTT_CONDUIT_THREAD]
+ _B_var_Straight eOTT_PIPE_TREADE _B_var_eOTT_PIPE_TREAD AddHoleColor GetHoleColorn
+ AddOuterColor,
+ p_aHoleColorsJ
+ p_iHoleColors p_aOuterColors p_iOuterColors ColorsHJ AddOuterThreadColor GetOuterThreadColor>c _B_var_AddColor _B_var_AddHoleColor _B_var_p_iColors p_iOuColors p_aouColors p_iCp_iOuterColorsolors AssemblyDoc
+ GethoColor AddouJy eOTT_p MatchCollection
+ IgnoreCase0
+ mod_ConfigU REVISION_NON_PDMk swStandardDINTappedHoleyr swStandardDINStraightPipeTappedHole swStandardDINTaperedPipeTap swStandardSuperiorBottomingTappedHole2> _B_var_swActiveDoc
+ swStandard swStandardDINDrillSizes swStandardDINst? swStandardDINthX swStandardDINScrewClearances
+ sTolerance _B_var_GetToleranceFitValuesY _B_var_SelectionMgr
+ FastenerSiz.
+ FastenerSize2 _B_var_tenerType _B_var_ThruHoleDiameter _B_var_TapDrillDiameter _B_var_TapDrillDepth _B_var_ThreadDiameter _B_var_NextItem
+ _B_var_RegExp!U _B_var_ThreadAngle< _B_var_ThreadDepth% _B_var_bThread bTreadJw bThre bCounterSink[l _B_var_bCounterSink8 bCounterSinkAngleL _B_var_bCounterSinkAngle
+ bCounterThink
+ _B_var_Single rCounterSinkAngle
+ _B_var_bTread bCounterTink bNearCounterSink. _B_var_bCounterThinkz bNearCounter _B_var_bNearCounterSink(b _B_var_CosmeticThreadType _B_var_CounterBoreDepth _B_var_CounterBoreDiameter _B_var_CounterDrillAngle' _B_var_CounterSinkDiameter5` _B_var_Depth _B_var_EndConditioni _B_var_FarCounterSinkAngle _B_var_FastenerType2] _B_var_MajorDiameter _B_var_MinorDiameter dNearCounterSinkDiameter dNearCounterSinkAngleQ dMinorDiameter dMidCounterSinkDiameterO dMidCounterSinkAngle3 dMajorDiameterYs
+ dHoleDiameterE
+ dHoleDepth iHeadClearanceType dHeadClearance iFastenerType2
+ sFastenerSize dFarCounterSinkDiameterO dFarCounterSinkAnglesg
+ iEndCondition dDrillAngle dCounterSinkDiameter dCounterDrillAngle dCounterBoreDiameter dCounterBoreDepth iCosmeticThreadTypeuc _B_var_ThruHoleDepth _B_var_ThruTapDrillDiameter dTapDrillDepth dTapDrillDiameter dThreadAngle dThreadDepth dThreadDiameter%m dThruHoleDepth dThruHoleDiameter dThruTapDrillDepthy dThruTapDrillDiameter _B_var_rCounterSinkAnglew
+ dCounterSinkAngle _B_var_dCounterSinkAngle= dCounterDrillDepth _B_var_dCounterDrillDepth _B_var_dcounter: _B_var_dFactor bCounterBor _B_var_bCounterBor1 bCounterBore iStandardValueItems _B_var_iStanms p_iParamsXZ saubj GetValueFrom iLinemP ss0P sCurrentSection ERRMSG_CONFIG_MISSINGO
+ vbCritical+} ERRMSG_TITEL PROC_REMOVE_COMMENTS ReadNext0H p_bConfigLoaded _B_var_mod_ERRb
+ FUNCT_aE funmctio FUNCT_READ_PARAMETER
+ _B_var_subMatch
+ SubMatches0 _B_var_eixt FUNCT_NEW_SECT eSection!; eSections eS_OURTER_THREADS] eCurrentSection*
+ _B_var_Select'E dimsCurrentSection _B_var_dimsCurrentSection eS_EXTERNAL_THREADSk,
+ bOpenBlock
+ sBlockNamew cHoleParameters Tolerance{y Thread CounterBore CounterSink NearCounterSink
+ eBE_IGNORE
+ StandardItems HeadClearanceTypeItems StandardItemCount HeadClearanceTypeItemCountG FastenerType2Items1 FastenerType2ItemCount EndConditionItems EndConditionItemCount CosmeticThreadTypeItems CosmeticThreadTypeItemCount Add_StandardItemValue Add_StandardItem Add_StandardValue< Add_HeadClearanceType
+ p_eStandard p_eHeadClearanceType p_eFastenerType2 p_eEndConditionT> p_eCosmeticThreadType p_itandardItemCount p_iHeadClearanceTypeItemCountV p_iFastenerType2ItemCount p_iEndConditionItemCount@ p_iCosmeticThreadTypeItemCount
+ p_Standard p_iStandardItemCountXu
+ _B_var_p_iStandardItemCountc Add_FastenerType2 Add_EndCondition0 Add_CosmeticThreadType _B_var_pruvate*N Compare_Stringn4 Compare_Dblzm Round CounterBored
+ CounterDrii dCounterDril CounterDrillbH
+ CounterDrilld\ dCounterDrillDiameter:u _B_var_dCounterDrillDiameter swHol1
+ dCounterDrillF dCounterSink NearCounterSinka6U dthV
+ dThruHoled7 CHOLE_COLOR_DEFINATIONS _B_var_CHOLE_COLOR_DEFINATIONS p_iStandard p_iHeadClearanceType p_iFastenerType2 p_iEndCondition p_iCosmeticThreadType4* HOLE_COLOR_DEFINATION HOLE_COLOR_DEFINATION_COUNT|K InitArray^
+ InitArrays cCurrHoleDef FUNCT_NEW_HOLE_DEF
+ _B_var_String functoion+ _B_var_sLine _B_var_ReadNext
+ _B_var_elseIfqm
+ SetParamsN
+ _B_var_repace _B_var_repalceu CCosmeticThreadParameters
+ eDiameterType. _B_var_eDiameterType
+ eEndConditionb p_iDiameterTypeItems p_eDiameterType_ p_iEndConditionItems p_iStandardItems$ Add_DiameterType Add_Standard&n GetDblValue
+ ThreadType9 CCOSMETICTHR_COLOR_DEFINATIONS/ COSMETICTHR_COLOR_DEFINATION_COUNT< AddExternalThreadColor R_eEndCondition3z SubeDim{o FUNCT_NEW_COSTHRED_DEF cCurrCosmThrDef _B_var_cCurrHoleDef cCurrentCosThred cCurrentCosThreadDef' GetExternalThreadColor
+ _B_var_tvalue Compare_Bool5z _B_var_tHoleColor]h _B_var_tOuterThreadColorj Class_Initializen Class_TerminateP
+ Initialize p_iTestedFeatures _B_var_privatze p_iColoredFeatures
+ messagebox _B_var_messageboxL
+ _B_var_megbox vbNewLineua strFile_Path _B_var_Write DateTime@F _B_str_Time
+ N0{FCFB3D2A-A0FA-1068-A738-08002B3371B5}
+ (*\Rffff*0b5e3fbf44\2 $*\Rffff*0b5e3fbf44 $*\Rffff*0d5e3fbf64 $*\Rffff*0U5e3fbf2dardValueItems iHeadCi  iHeadClearanceTypeItemsF _B_var_iHeadClearanceTypeItems iFastenerType2Items _B_var_iFastenerType2Items iEndConditionItems _B_var_iEndConditionItemsN _B_var_iCosmeticThreadType' aStandardValueItems aHeadClearanceTypeItems aFastenerType2Items aEndConditionItems aCosmeticThreadType _B_var_aStandardValueItems _B_var_aHeadClearanceTypeItemsS _B_var_aFastenerType2Items _B_var_aEndConditionItems _B_var_aCosmeticThreadType _B_var_dDiameter
+ iDiameterType _B_var_iDiameterTypeP dThreadCalloutoe _B_var_dThreadCallout@ _B_var_iEndCondition _B_var_iStandardgO
+ iStandardType- _B_var_iStandardType iStandardItems9 iDiameterTypeItems iStandardTypeItemsiM aDiameterTypeItemsq aStandardItems aStandardTypeItems% iCosmeticThreadTypeItems aCosmeticThreadTypeItems _B_var_aDiameterTypeItems _B_var_aStandardItems _B_var_aStandardTypeItemso
+ sStandardType _B_var_sStandardType swCosmeticThreadDiameterType_e swCosmeticEndConditions_e+ swWzdHoleStandards_e swWzdHoleCosmeticThreadTypes_e swWzdHoleCounterSinkHeadClearanceTypes_e
+ _B_var_ubound _B_var_swFace1* _B_var_swFace2+ mod_exkS _B_var_Right9 _B_var_ActiveWorkbookc9 FUNCT_GETMACROPATH GetCurrentMacroPathName> CONFIG_FILEB CONFIG_FILE_NAME _B_var_CONFIG_FILE_NAME
+ ReadConfig _B_var_Integer CParamVar/ ConvertToInt ConvertToDbl( p_ParamsN0 _B_var_p_Params p_iParamsXZ saubj GetValueFrom iLinemP ss0P sCurrentSection ERRMSG_CONFIG_MISSINGO
+ vbCritical+} ERRMSG_TITEL PROC_REMOVE_COMMENTS ReadNext0H p_bConfigLoaded _B_var_mod_ERRb
+ FUNCT_aE funmctio FUNCT_READ_PARAMETER
+ _B_var_subMatch
+ SubMatches0 _B_var_eixt FUNCT_NEW_SECT eSection!; eSections eS_OURTER_THREADS] eCurrentSection*
+ _B_var_Select'E dimsCurrentSection _B_var_dimsCurrentSection eS_EXTERNAL_THREADSk,
+ bOpenBlock
+ sBlockNamew cHoleParameters Tolerance{y Thread CounterBore CounterSink NearCounterSink
+ eBE_IGNORE
+ StandardItems HeadClearanceTypeItems StandardItemCount HeadClearanceTypeItemCountG FastenerType2Items1 FastenerType2ItemCount EndConditionItems EndConditionItemCount CosmeticThreadTypeItems CosmeticThreadTypeItemCount Add_StandardItemValue Add_StandardItem Add_StandardValue< Add_HeadClearanceType
+ p_eStandard p_eHeadClearanceType p_eFastenerType2 p_eEndConditionT> p_eCosmeticThreadType p_itandardItemCount p_iHeadClearanceTypeItemCountV p_iFastenerType2ItemCount p_iEndConditionItemCount@ p_iCosmeticThreadTypeItemCount
+ p_Standard p_iStandardItemCountXu
+ _B_var_p_iStandardItemCountc Add_FastenerType2 Add_EndCondition0 Add_CosmeticThreadType _B_var_pruvate*N Compare_Stringn4 Compare_Dblzm Round CounterBored
+ CounterDrii dCounterDril CounterDrillbH
+ CounterDrilld\ dCounterDrillDiameter:u _B_var_dCounterDrillDiameter swHol1
+ dCounterDrillF dCounterSink NearCounterSinka6U dthV
+ dThruHoled7 CHOLE_COLOR_DEFINATIONS _B_var_CHOLE_COLOR_DEFINATIONS p_iStandard p_iHeadClearanceType p_iFastenerType2 p_iEndCondition p_iCosmeticThreadType4* HOLE_COLOR_DEFINATION HOLE_COLOR_DEFINATION_COUNT|K InitArray^
+ InitArrays cCurrHoleDef FUNCT_NEW_HOLE_DEF
+ _B_var_String functoion+ _B_var_sLine _B_var_ReadNext
+ _B_var_elseIfqm
+ SetParamsN
+ _B_var_repace _B_var_repalceu CCosmeticThreadParameters
+ eDiameterType. _B_var_eDiameterType
+ eEndConditionb p_iDiameterTypeItems p_eDiameterType_ p_iEndConditionItems p_iStandardItems$ Add_DiameterType Add_Standard&n GetDblValue
+ ThreadType9 CCOSMETICTHR_COLOR_DEFINATIONS/ COSMETICTHR_COLOR_DEFINATION_COUNT< AddExternalThreadColor R_eEndCondition3z SubeDim{o FUNCT_NEW_COSTHRED_DEF cCurrCosmThrDef _B_var_cCurrHoleDef cCurrentCosThred cCurrentCosThreadDef' GetExternalThreadColor
+ _B_var_tvalue Compare_Bool5z _B_var_tHoleColor]h _B_var_tOuterThreadColorj Class_Initializen Class_TerminateP
+ Initialize p_iTestedFeatures _B_var_privatze p_iColoredFeatures
+ messagebox _B_var_messageboxL
+ _B_var_megbox vbNewLineua strFile_Path _B_var_Write DateTime@F _B_str_Time tandardItems$ Add_DiameterType Add_Standard&n GetDblValue
+ ThreadType9 CCOSMETICTHR_COLOR_DEFINATIONS/ COSMETICTHR_COLOR_DEFINATION_COUNT< AddExternalThreadColor R_eEndCondition3z SubeDim{o FUNCT_NEW_COSTHRED_DEF cCurrCosmThrDef _B_var_cCurrHoleDef
+ N0{FCFB3D2A-A0FA-1068-A738-08002B3371B5}
+ (*\Rffff*0b5e3fbf44\2 $*\Rffff*0b5e3fbf44 $*\Rffff*0d5e3fbf64 $*\Rffff*0U5e3fbf2f
+ DiameterKTF rDrill StandardTypeKTF
+ BlindDepthKTF
+ ThreadCalloutKTF DiameterTypeK StandardKT  EndConditionK
+ smeticTh€ readPar
+ FB3D2A-A 0FA-1068
+ tabl Pre decla CExpose Templat@eDeriv
+ XSub  Add_
+À½ serveùÎ zp_OTD
+ (i > 0) pThen
+ 0 To p_iA ZCondi
+½ Stanð dard
+ String(v 1 As 
+ SetD5=` New  .Exec ute(UA
+ U*Sub Cla ss_In ™ al0ize(d
+ hreadCalplout
+ N0{FCFB3D2A-A0FA-1068-A738-08002B3371B5}
+ (*\Rffff*0U5e3fbf2f\1 $*\Rffff*0b5e3fbf44 (*\Rffff*0b5e3fbf44\1 $*\Rffff*0U5e3fbf2f $*\Rffff*0c5e3fbf64
+ DiameterKTF rDrill StandardTypeKTF
+ BlindDepthKTF
+ ThreadCalloutKTF DiameterTypeK StandardKT  EndConditionK
+ smeticTh€ readPar
+ FB3D2A-A 0FA-1068
+ tabl Pre decla CExpose Templat@eDeriv
+ XSub  Add_
+À½ serveùÎ zp_OTD
+ (i > 0) pThen
+ 0 To p_iA ZCondi
+½ Stanð dard
+ String(v 1 As 
+ SetD5=` New  .Exec ute(UA
+ U*Sub Cla ss_In ™ al0ize(d
+ hreadCalplout
+ N0{FCFB3D2A-A0FA-1068-A738-08002B3371B5}
+ (*\Rffff*0U5e3fbf2f\1 $*\Rffff*0b5e3fbf44 (*\Rffff*0b5e3fbf44\1 $*\Rffff*0U5e3fbf2f $*\Rffff*0c5e3fbf64
+ DiameterKTF CounterDrillAngleKTF CounterDrillDepthKTF CounterSinkAngleKTF
+ DiameterKTF CounterDrillAngleKTF CounterDrillDepthKTF CounterSinkAngleKTF CounterSinkDiameterKTF
+ DrillAngleKTF
+ HeadClearanceKTF erSi HoleDepthKTF HoleDiameterKTF MidCounterSinkAngleKTF MidCounterSinkDiameterKTF ThreadAngleKTF FarCounterSinkAngleKTF FarCounterSinkDiameterKTF
+ MajorDiameterKTF
+ MinorDiameterKTF ThreadDepthKTF ThreadDiameterKTF ThruHoleDiameterKTF ThruTapDrillDepthKTF
+ TapDrillDepthKTF TapDrillDiameterKTF CounterBoreKT(N CosmeticThreadTypeK ThruTapDrillDiameterKTF CounterSinkKT(R
+ NearCounterSinkKT CounterBoreDepthKTF CounterBoreDiameterKTF astene CounterDrillDiameterKTF ta.Hea NearCounterSinkAngleKTF EndConditionK
+ FastenerType2KT HeadClearanceTypeKT NearCounterSinkDiameterKTF
+ ThruHoleDepthKTF ToleranceKTF
+ e = "cHo lePar
+ 0{FCFB 3D2A-A0F 738-0800 2B3371B5
+ dCrea tabl Pre decla CExpose Templat@eDeriv
+ Cosmð etic
+ udMSub AHdd_EPVa
+ EReDim Ð‚  serve
+ "Counter BoreDept
+ª DrilÀ lAngle
+ HeadCleaprancD
+ ClearancÀ eType" nd Selec&tCE
+ rivate F unction  Compare_€ CtHole Color
+ es = Fal se
+ xit Funcption
+ tandardI temCountp - 1
+€ oreCase* Global
+ Value|(sq1
+ rillDept h = -
+  ia meter
+ CounterSinkDiameterKTF
+ DrillAngleKTF
+ HeadClearanceKTF erSi HoleDepthKTF HoleDiameterKTF MidCounterSinkAngleKTF MidCounterSinkDiameterKTF ThreadAngleKTF FarCounterSinkAngleKTF FarCounterSinkDiameterKTF
+ MajorDiameterKTF
+ MinorDiameterKTF ThreadDepthKTF ThreadDiameterKTF ThruHoleDiameterKTF ThruTapDrillDepthKTF
+ TapDrillDepthKTF TapDrillDiameterKTF CounterBoreKT(N CosmeticThreadTypeK ThruTapDrillDiameterKTF CounterSinkKT(R
+ NearCounterSinkKT CounterBoreDepthKTF CounterBoreDiameterKTF astene CounterDrillDiameterKTF ta.Hea NearCounterSinkAngleKTF EndConditionK
+ FastenerType2KT HeadClearanceTypeKT NearCounterSinkDiameterKTF
+ ThruHoleDepthKTF ToleranceKTF
+ e = "cHo lePar
+ 0{FCFB 3D2A-A0F 738-0800 2B3371B5
+ dCrea tabl Pre decla CExpose Templat@eDeriv
+ Cosmð etic
+ udMSub AHdd_EPVa
+ EReDim Ð‚  serve
+ "Counter BoreDept
+ª DrilÀ lAngle
+ HeadCleaprancD
+ ClearancÀ eType" nd Selec&tCE
+ rivate F unction  Compare_€ CtHole Color
+ es = Fal se
+ xit Funcption
+ tandardI temCountp - 1
+€ oreCase* Global
+ Value|(sq1
+ rillDept h = -
+  ia meter
+ cCurrCosmThrDef $*\Rffff*0D5e3fbd4d cCurrCosmThrDef $*\Rffff*0D5e3fbd4d
+ 08002B33 71B5}
+ Creatabl Predecl2a
+ oTo Wronð gTyp
+ SetColor.conf.txt
+ 08002B33 71B5}
+ Creatabl Predecl2a
+ oTo Wronð gTyp
+ $*\Rffff*0d5e3fbf64 $*\Rffff*0D5e3fbd4d $*\Rffff*0c5e3fbf64 $*\Rffff*0U5e3fbf2f $*\Rffff*0b5e3fbf44 (*\Rffff*0U5e3fbf2f\1 (*\Rffff*0U5e3fbf2f\0
+  // Returns the Macro-Path
+ SetColor.conf.txt  // Does the file exist?  simpleminded test:U
+  // Open the config file  // Parse the file content   // Remove comments  // Ignore empty linesft.com  // Close the file 
+ INI-File missing!
+  Find section  // Read Parameter-Set if given EXTERNAL_THREADKTF
+ On Local Error GoTo Fehler  On Local Error GoTo Fehler 
+ Option  Explici@t
+€ Color.c j0.txt
+ XTERNAL_@THREAD
+ UNCT_GET MACROPAT Does the  f`H exis
+ Remove pcomm@ COMMENTS~(
+§ Loop OClo
+ External ThreadCo lor(Trim
+ cCurr Cosm .Red = rA Green FUNCT_NE W_COSTHR@ED_DEF Function
+ Fehler On Loc al Error
+ tring, B yRef 
+ Execute(O#[À DEach  m In E
+ /@qturns  the MacrýÝ GETMA CROPATH(
+ T_GETMAC@ROPATH
+ VBAProjectFiles
+ $*\Rffff*0L5e3fbe48
+ '' The code modules will be exported in a folder named. '' VBAProjectFiles in the Documents folder. '' The code below create this folder if it not existdow '' or delete all files in the folder if it exist. Export Folder not exist The VBA in this workbook is protected, not possible to export the code '' Concatenate the correct filename for export. '' This is a worksheet or workbook object. '' Don't try to export. '' Export the component to a text file. '' remove it from the project if you want ''wkbSource.VBProject.VBComponents.Remove cmpComponent '' notwendige Referenzen auslesen und als Textdatei ablegen VBA_References.txt Scripting.FileSystemObject$ BackupExport is done  VBAProjectFiles FileSystemObject]
+ WScript.Shell scripting.filesystemobject$ MyDocuments
+ BuildFileName Thisworkbook or worksheet module
+ We do nothing _ExportP roject"
+ Public  Sub  dules(Op tional i
+ cmpCompo0nent AVBc
+ '' The c0ode   folder 2n
+  if it nDot
+€ ible to 4}
+ ovea­ from
+€ wendige@T’ f!}zepiusP
+ of.Writ eLine .D$es#
+ oHeHq MkDir
+ ct_Docum ent Then
+ sworkboo k or  dWe do  nothing bVBP roj.VBCo mpon
+ ABCDEFGHIJKLMNOPQRSTUVW
+ $*\Rffff*0b5e3fbf44 $*\Rffff*0d5e3fbf64 $*\Rffff*0c5e3fbf64 (*\Rffff*0b5e3fbf44\2 (*\Rffff*0b5e3fbf44\1 (*\Rffff*0b5e3fbf44\0 $*\Rffff*0U5e3fbf2f $*\Rffff*0L5e3fbe48
+ SetColor.conf.txt
+ $*\Rffff*0d5e3fbf64 $*\Rffff*0D5e3fbd4d $*\Rffff*0c5e3fbf64 $*\Rffff*0U5e3fbf2f $*\Rffff*0b5e3fbf44 (*\Rffff*0U5e3fbf2f\1 (*\Rffff*0U5e3fbf2f\0
+  // Returns the Macro-Path
+ SetColor.conf.txt  // Does the file exist?  simpleminded test:U
+  // Open the config file  // Parse the file content   // Remove comments  // Ignore empty linesft.com  // Close the file 
+ INI-File missing!
+  Find section  // Read Parameter-Set if given EXTERNAL_THREADKTF
+ On Local Error GoTo Fehler  On Local Error GoTo Fehler 
+ Option  Explici@t
+€ Color.c j0.txt
+ XTERNAL_@THREAD
+ UNCT_GET MACROPAT Does the  f`H exis
+ Remove pcomm@ COMMENTS~(
+§ Loop OClo
+ External ThreadCo lor(Trim
+ cCurr Cosm .Red = rA Green FUNCT_NE W_COSTHR@ED_DEF Function
+ Fehler On Loc al Error
+ tring, B yRef 
+ Execute(O#[À DEach  m In E
+ /@qturns  the MacrýÝ GETMA CROPATH(
+ T_GETMAC@ROPATH
+ VBAProjectFiles
+ $*\Rffff*0L5e3fbe48
+ '' The code modules will be exported in a folder named. '' VBAProjectFiles in the Documents folder. '' The code below create this folder if it not existdow '' or delete all files in the folder if it exist. Export Folder not exist The VBA in this workbook is protected, not possible to export the code '' Concatenate the correct filename for export. '' This is a worksheet or workbook object. '' Don't try to export. '' Export the component to a text file. '' remove it from the project if you want ''wkbSource.VBProject.VBComponents.Remove cmpComponent '' notwendige Referenzen auslesen und als Textdatei ablegen VBA_References.txt Scripting.FileSystemObject$ BackupExport is done  VBAProjectFiles FileSystemObject]
+ WScript.Shell scripting.filesystemobject$ MyDocuments
+ BuildFileName Thisworkbook or worksheet module
+ We do nothing _ExportP roject"
+ Public  Sub  dules(Op tional i
+ cmpCompo0nent AVBc
+ '' The c0ode   folder 2n
+  if it nDot
+€ ible to 4}
+ ovea­ from
+€ wendige@T’ f!}zepiusP
+ of.Writ eLine .D$es#
+ oHeHq MkDir
+ ct_Docum ent Then
+ sworkboo k or  dWe do  nothing bVBP roj.VBCo mpon
+ ABCDEFGHIJKLMNOPQRSTUVW
+ $*\Rffff*0b5e3fbf44 $*\Rffff*0d5e3fbf64 $*\Rffff*0c5e3fbf64 (*\Rffff*0b5e3fbf44\2 (*\Rffff*0b5e3fbf44\1 (*\Rffff*0b5e3fbf44\0 $*\Rffff*0U5e3fbf2f $*\Rffff*0L5e3fbe48
+  // start coloring  // Check if any document is open 8! // If nothing open -> exit macro 8+ // End macro if active document is no part  // Get the first feature  // Find HoleWizard featureso`  // Set colors  // Find next feature ABCDEFGHIJKLMNOPQRSTUVW  // Get defination G|jThread    Tolerances:                  =  CosmeticThread  // Do nothing  // Search Cosmetic Threads in other features
+ Dim swDispDim As SldWorks.DisplayDimension  swHoleData.FastenerType = swWzdHoleStandardFastenerTypes_e.   CounterBoreDiameter          =  Dim swDimension As SldWorks.Dimension 1 radian = 180º /p = 57.295779513º  or approximately 57.3   CounterDrillAngle            =    CounterDrillDepth            =    CounterDrillDiameter         =    CounterSinkAngle             =    CounterSinkDiameter          =    Depth                        =    Diameter                     =    DrillAngle                   =    EndCondition                 =    FarCounterSinkDiameter       =    FastenerSize                 =    FastenerType                 =    HeadClearance                =    HeadClearanceType            =    HoleDepth                    =    HoleDiameter                 =    MajorDiameter                =    MidCounterSinkAngle          =    MidCounterSinkDiameter       =    MinorDiameter                =    NearCounterSinkAngle         =    NearCounterSinkDiameter      =    Standard                     =    TapDrillDepth                =    TapDrillDiameter             =    ThreadAngle                  =    ThreadDepth                  =    ThreadDiameter               =    ThruHoleDepth                =    ThruHoleDiameter             =    ThruTapDrillDepth            =    ThruTapDrillDiameter         =  Dim sName As String  // Get defination
+  Feature(s) tested  Feature(s) colored UnknownFeatureLog.txt   Type                         =    CosmeticThreadType           =    CounterBoreDepth             =    FarCounterSinkAngle          =    Unknown Feature:
+ Option E xplicit
+ ype tCol or
+ VswWzd Standar dFastene
+ Sink Near
+‚Ž BoCosà meticI
+ HOLE_COL OR_DEFIN@ATIONSs
+ CCOSMETI° CTHRÀŽ dFeatpuresZ
+ Sub In itArrays
+  Trim(UC(aseC
+ DEFINATI0ONS( Set@ AddEx alThreadà Color
+ P ublic
+  G@etHole‡ , ByRe f res
+… SldWor8ks. od_Expor tProject
+  lceR€ ebuild3 Graphicbs craw
+ 141592658359c
+ 2HeadC€ learancL
+  End 0With# iTestedF€ eatures`ˆ Def0 Get1,@Color(
+ Dimensio:n
+  SldWork<s.
+ 141592658359  %10x00#C
+ Trim(UCxase .iStand8ardl
+ l' // 0Do n nDim v Faces As  Variant (Sld@Works.
+ To UBoun4d( .IsCylipnderWvE
+ wCosThre ad.Relea
+ jDoc 2, bRA
+ lPropert yValues:
+ ZCo@nfigOpá ns _This# bMQuð ypes_M 1Ho@leDataZ
+ 4st L@ETTERS ABCDEFGH IJKLMNOP€ QRSTUVW€ Unknown Log.txt
+ rBoreDep/ +
+ 57.2957€ 79513
+ DrillAnXgle
+ EndCondið tion FarCoun€Áð Sink stenerSi>z
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swcommands.tlb
+ SwCommands N0{801A2004-A66C-11D3-A8BD-0000861EBBD6} $*\Rffff*0K5e3fbe48
+ 861E BBD6}
+ Creatabl Predecl
+  BExpose Template`Deriv
+ swDimension.
+ cCurrHoleDef
+  // start coloring  // Check if any document is open 8! // If nothing open -> exit macro 8+ // End macro if active document is no part  // Get the first feature  // Find HoleWizard featureso`  // Set colors  // Find next feature ABCDEFGHIJKLMNOPQRSTUVW  // Get defination G|jThread    Tolerances:                  =  CosmeticThread  // Do nothing  // Search Cosmetic Threads in other features
+ Dim swDispDim As SldWorks.DisplayDimension  swHoleData.FastenerType = swWzdHoleStandardFastenerTypes_e.   CounterBoreDiameter          =  Dim swDimension As SldWorks.Dimension 1 radian = 180º /p = 57.295779513º  or approximately 57.3   CounterDrillAngle            =    CounterDrillDepth            =    CounterDrillDiameter         =    CounterSinkAngle             =    CounterSinkDiameter          =    Depth                        =    Diameter                     =    DrillAngle                   =    EndCondition                 =    FarCounterSinkDiameter       =    FastenerSize                 =    FastenerType                 =    HeadClearance                =    HeadClearanceType            =    HoleDepth                    =    HoleDiameter                 =    MajorDiameter                =    MidCounterSinkAngle          =    MidCounterSinkDiameter       =    MinorDiameter                =    NearCounterSinkAngle         =    NearCounterSinkDiameter      =    Standard                     =    TapDrillDepth                =    TapDrillDiameter             =    ThreadAngle                  =    ThreadDepth                  =    ThreadDiameter               =    ThruHoleDepth                =    ThruHoleDiameter             =    ThruTapDrillDepth            =    ThruTapDrillDiameter         =  Dim sName As String  // Get defination
+  Feature(s) tested  Feature(s) colored UnknownFeatureLog.txt   Type                         =    CosmeticThreadType           =    CounterBoreDepth             =    FarCounterSinkAngle          =    Unknown Feature: mod_ExportProject.ExportModules
+ Option E xplicit
+ ype tCol or
+ VswWzd Standar dFastene
+ Sink Near
+‚Ž BoCosà meticI
+ HOLE_COL OR_DEFIN@ATIONSs
+ CCOSMETI° CTHRÀŽ dFeatpuresZ
+ Sub In itArrays
+  Trim(UC(aseC
+ DEFINATI0ONS( Set@ AddEx alThreadà Color
+ P ublic
+  G@etHole‡ , ByRe f res
+… SldWor8ks. mod_Expo rtProjec p_iTePsted$
+ GraphiÄ cs0craw
+ .1415926p5359c
+ 2Hea dClearan
+ p_iTeste dFeatureFs`
+ Types swDimens
+ Pri vate   Pparse
+ 3.141592à 65359 ! Is Not hing)
+ j' // 0Do n nDim v Faces As  Variant (Sld@Works.
+ To UBoun4d( .IsCylipnderWvE
+ wCosThre ad.Relea
+ jDoc 2, bRA
+ lPropert yValues:
+ ZCo@nfigOpá ns _This# bMQuð ypes_M 1Ho@leDataZ
+ 4st L@ETTERS ABCDEFGH IJKLMNOP€ QRSTUVW€ Unknown Log.txt
+ rBoreDep/ +
+ 57.2957€ 79513
+ DrillAnXgle
+ Prin t #1,® rillAn8gle EndCondà ition FarCouná€Á Sink stenerSi>z
+ N0{801A2004-A66C-11D3-A8BD-0000861EBBD6} $*\Rffff*0K5e3fbe48
+ 861E BBD6}
+ Creatabl Predecl
+  BExpose Template`Deriv
+ swDimension.
+ cCurrHoleDef
+ TapDrillDiameter ThreadAngle ThreadDepth ThreadDiameter
+ ThruHoleDepth ThruHoleDiameter ThruTapDrillDepth ThruTapDrillDiameter StandardType
+ BlindDepth
+ wBAAA NAAAAAA
+ wBAAA NAAAAAA
+ lDiameter         = &
+ CounterBoreDepth& CounterBoreDiameter Description CounterBore CounterSink NearCounterSink CounterBoreDepth CounterBoreDiameter CounterDrillDepth CounterDrillAngle CounterDrillDiameter CounterSinkAngle CounterSinkDiameter
+ DrillAngle FarCounterSinkAngle FarCounterSinkDiameter
+ HeadClearance HoleDiameter
+ MajorDiameter MidCounterSinkAngle MidCounterSinkDiameter
+ MinorDiameter NearCounterSinkAngle NearCounterSinkDiameter
+ TapDrillDepth
+ ThisLibrary mod_ExportProject
+ mod_Config cHoleParameters CCosmeticThreadParameters
+ SetColor.conf.txt C:\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\VBE7.DLL
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swvba.tlb
+ SolidWorks
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldworks.tlb
+ ParseHoleWizardFeature C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swconst.tlb
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swcommands.tlb
+ SwCommands
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldutils\gtswUtilities.tlb SWUtilities
+ C:\Windows\System32\vbscript.dll\3
+ TapDrillDiameter ThreadAngle ThreadDepth ThreadDiameter
+ ThruHoleDepth ThruHoleDiameter ThruTapDrillDepth ThruTapDrillDiameter StandardType
+ BlindDepth
+ Description CounterBore CounterSink NearCounterSink CounterBoreDepth CounterBoreDiameter CounterDrillDepth CounterDrillAngle CounterDrillDiameter CounterSinkAngle CounterSinkDiameter
+ DrillAngle FarCounterSinkAngle FarCounterSinkDiameter
+ HeadClearance HoleDiameter
+ MajorDiameter MidCounterSinkAngle MidCounterSinkDiameter
+ MinorDiameter NearCounterSinkAngle NearCounterSinkDiameter
+ TapDrillDepth
+ ThisLibrary mod_ExportProject
+ mod_Config cHoleParameters CCosmeticThreadParameters
+ SetColor.conf.txt C:\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\VBE7.DLL
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swvba.tlb
+ SolidWorks
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldworks.tlb
+ ParseHoleWizardFeature C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swconst.tlb
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\swcommands.tlb
+ SwCommands
+ C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\sldutils\gtswUtilities.tlb SWUtilities
+ C:\Windows\System32\vbscript.dll\3 VBScript_RegExp_55
+ C:\Windows\system32\stdole2.tlb
+ C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB
+ InitArrays AddHoleColor AddExternalThreadColor GetHoleColor GetExternalThreadColor ParseSubFeature
+ WORKS Corp\SOLID0 tcplu.dll.config
+ ReadConfig FUNCT_NEW_COSTHRED_DEF FUNCT_NEW_HOLE_DEF FUNCT_NEW_SECT FUNCT_READ_PARAMETER PROC_REMOVE_COMMENTS GetValueFrom FUNCT_GETMACROPATH
+ aintenance
+ VBInternal FolderWithVBAProjectFiles
+ Add_StandardValue Add_HeadClearanceType Add_FastenerType2 Add_EndCondition Add_CosmeticThreadType Compare_Bool Compare_String Compare_Dbl GetDblValue Class_Initialize Add_Standard
+ Add_DiameterType&
+ ExportModules DeleteVBAModulesAndUserForms
+  Feature(s) tested
+  Feature(s) colored UNKNOWN HOLE FEATURE Tolerances: 
+ CosmeticThread HoleDiameter& UnknownFeatureLog.txt   Type                         =  ABCDEFGHIJKLMNOPQRSTUVW   CosmeticThreadType           =    CounterBoreDepth             =    CounterBoreDiameter          =    CounterDrillAngle            =    CounterDrillDepth            =    CounterDrillDiameter         =    CounterSinkAngle             =    CounterSinkDiameter          =    Depth                        =    Diameter                     =    DrillAngle                   =    EndCondition                 =    FarCounterSinkAngle          =    FarCounterSinkDiameter       =    FastenerSize                 =    FastenerType                 =    HeadClearance                =    HeadClearanceType            =    HoleDepth                    =    HoleDiameter                 =    MajorDiameter                =    MidCounterSinkAngle          =    MidCounterSinkDiameter       =    MinorDiameter                =    NearCounterSinkAngle         =    NearCounterSinkDiameter      =    Standard                     =    TapDrillDepth                =    TapDrillDiameter             =    ThreadAngle                  =    ThreadDepth                  =    ThreadDiameter               =    ThruHoleDepth                =    ThruHoleDiameter             =    ThruTapDrillDepth            =    ThruTapDrillDiameter         =  DiameterType StandardType BlindDepth& ThreadCallout EndCondition FarCounterSinkDiameter
+ FarCounterSinkAngle,
+ INI-File missing!
+ ipt_RegExp_55
+ C:\Windows\system32\stdole2.tlb
+ C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB
+ InitArrays AddHoleColor AddExternalThreadColor GetHoleColor GetExternalThreadColor ParseSubFeature
+ WORKS Corp\SOLID0 tcplu.dll.config
+ ReadConfig FUNCT_NEW_COSTHRED_DEF FUNCT_NEW_HOLE_DEF FUNCT_NEW_SECT FUNCT_READ_PARAMETER PROC_REMOVE_COMMENTS GetValueFrom FUNCT_GETMACROPATH
+ aintenance
+ VBInternal FolderWithVBAProjectFiles
+ Add_StandardValue Add_HeadClearanceType Add_FastenerType2 Add_EndCondition Add_CosmeticThreadType Compare_Bool Compare_String Compare_Dbl GetDblValue Class_Initialize Add_Standard
+ Add_DiameterType&
+ ExportModules DeleteVBAModulesAndUserForms
+  Feature(s) tested
+  Feature(s) coloreError HeadClearance
+ CounterSinkAngle CounterSinkDiameter
+ CounterDrillDepth CounterDrillDiameter DrillAngle&
+ EXTERNAL_THREAD
+ ConvertToInt ConvertToDbl
+ CounterBoreDepth& CounterBoreDiameter
+ CounterDrillAngle MajorDiameter MidCounterSinkAngle MidCounterSinkDiameter MinorDiameter NearCounterSinkAngle NearCounterSinkDiameter TapDrillDepth
+ TapDrillDiameter ThreadAngle ThreadDepth
+ ThreadDiameter ThruHoleDepth
+ ThruHoleDiameter
+ ThruTapDrillDepth ThruTapDrillDiameter CounterBore CounterSink
+ NearCounterSink CosmeticThreadType FastenerType2
+ HeadClearanceType* ActiveVBProject Export Folder not exist Protection The VBA in this workbook is protected, not possible to export the code VBComponents VBA_References.txt GetBaseName Scripting.FileSystemObject CreateTextFile References MyDocuments SpecialFolders
+ BackupExport is done
+ VBAProjectFiles WScript.Shell scripting.filesystemobject FolderExists
+ ming\Microsoft\W0 \Videos.library-   Unknown Feature:
+ Unknown Feature:   Tolerances:                  = &
+  Feature(s) tested  Feature(s) colored& UNKNOWN HOLE FEATURE Tolerances: 
+ CosmeticThread HoleDiameter& UnknownFeatureLog.txt   Type                         =  ABCDEFGHIJKLMNOPQRSTUVW   CosmeticThreadType           =    CounterBoreDepth             =    CounterBoreDiameter          =    CounterDrillAngle            =    CounterDrillDepth            =    CounterDrillDiameter         =    CounterSinkAngle             =    CounterSinkDiameter          =    Depth                        =    Diameter                     =    DrillAngle                   =    EndCondition                 =    FarCounterSinkAngle          =    FarCounterSinkDiameter       =    FastenerSize                 =    FastenerType                 =    HeadClearance                =    HeadClearanceType            =    HoleDepth                    =    HoleDiameter                 =    MajorDiameter                =    MidCounterSinkAngle          =    MidCounterSinkDiameter       =    MinorDiameter                =    NearCounterSinkAngle         =    NearCounterSinkDiameter      =    Standard                     =    TapDrillDepth                =    TapDrillDiameter             =    ThreadAngle                  =    ThreadDepth                  =    ThreadDiameter               =    ThruHoleDepth                =    ThruHoleDiameter             =    ThruTapDrillDepth            =    ThruTapDrillDiameter         =  DiameterType StandardType BlindDepth& ThreadCallout EndCondition FarCounterSinkDiameter
+ FarCounterSinkAngle,
+ INI-File missing!
+ HeadClearance
+ CounterSinkAngle CounterSinkDiameter
+ CounterDrillDepth CounterDrillDiameter DrillAngle&
+ EXTERNAL_THREAD
+ ConvertToInt ConvertToDbl
+ CounterBoreDepth& CounterBoreDiameter
+ CounterDrillAngle MajorDiameter MidCounterSinkAngle MidCounterSinkDiameter MinorDiameter NearCounterSinkAngle NearCounterSinkDiameter TapDrillDepth
+ TapDrillDiameter ThreadAngle ThreadDepth
+ ThreadDiameter ThruHoleDepth
+ ThruHoleDiameter
+ ThruTapDrillDepth ThruTapDrillDiameter CounterBore CounterSink
+ NearCounterSink CosmeticThreadType FastenerType2
+ HeadClearanceType* ActiveVBProject Export Folder not exist Protection The VBA in this workbook is protected, not possible to export the code VBComponents VBA_References.txt GetBaseName Scripting.FileSystemObject CreateTextFile References MyDocuments SpecialFolders
+ BackupExport is done
+ VBAProjectFiles WScript.Shell scripting.filesystemobject FolderExists
+ ming\Microsoft\W0 \Videos.library-   Unknown Feature:
+ Unknown Feature:   Tolerances:                  = &
+  Feature(s) tested  Feature(s) colored&
